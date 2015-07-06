@@ -1,0 +1,1 @@
+Our team's task is to develop a method for automatic segmentation of retina blood vessels.
